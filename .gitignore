@@ -1,0 +1,5 @@
+node_modules
+build
+web3/assets/js/model.js
+web3/assets/js/jquery-3.5.1.js
+web3/.cache

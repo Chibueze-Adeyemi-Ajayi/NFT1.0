@@ -1,0 +1,20 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "description": "NFT minting DApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "NFT",
+    "DApp",
+    "web3",
+    "nodejs",
+    "js",
+    "ethereum",
+    "ethers"
+  ],
+  "author": "Jilo developer",
+  "license": "ISC"
+}
